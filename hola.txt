@@ -1,4 +1,4 @@
-hola añado linea de prueba
+hola desde conflicto-rama
 añado linea 2
 añado otra línea
 esta línea la añado desde repositorio remoto (git hub), para luego probar git pull y ver si pasn los cambios al repositorio local
